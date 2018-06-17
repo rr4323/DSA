@@ -1,0 +1,14 @@
+#######################################################
+# chapter2 of CLRS
+#######################################################
+The ch2 bomblab directory contains the following files:
+
+insertion_sort.c        - insertion_sort with side by side llel swap
+header.h		- all necessary header file
+merge_sort.c		- divide and conquer sort
+add_binary.c            - addition of 2 binary no. 
+binary_search.c		- search element from sorted array
+find_sum.c		- to find 2 element in array whose sum equals the given no.
+bubble_sort.c		- a sorting algo
+
+NOTE:	run the script ch2.sh to compile all program in directory
